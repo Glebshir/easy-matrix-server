@@ -36,7 +36,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```
-    git clone https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ.git
+    git clone [https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ](https://github.com/Glebshir/easy-matrix-server/).git
     cd ВАШ_РЕПОЗИТОРИЙ
     ```
     Или просто скачайте `install_matrix.sh` и загрузите его на сервер.
